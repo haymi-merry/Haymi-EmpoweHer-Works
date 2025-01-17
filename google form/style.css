@@ -1,0 +1,39 @@
+body{
+    background-color: #ccc;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    color: #06109e;
+}
+form{
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 20px;
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+}
+input{
+    height: 20px;
+    width: 300px;
+    outline: none;
+    margin: 0 auto;
+}
+.allinputs{
+    padding: 10px auto;
+}
+.startbtn{
+    background-color: #06109e;
+    width: 200px;
+    font-size: 18px;
+    color: white;
+    padding: 10px 20px;
+    margin: 0 auto;
+    margin-left: 60px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
