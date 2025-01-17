@@ -12,15 +12,17 @@ form{
     background-color: #fff;
     margin: 0 auto;
     padding: 20px;
+    padding-bottom: 25px;
     width: 400px;
-    height: 250px;
+    height: 300px;
     border-radius: 10px;
 }
 input{
-    height: 20px;
+    height: 25px;
     width: 300px;
     outline: none;
     margin: 0 auto;
+   
 }
 .allinputs{
     padding: 10px auto;
